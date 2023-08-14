@@ -1,0 +1,7 @@
+C:\Users\SRMidia\source\repos\JogoQuiz\JogoQuiz\bin\Debug\JogoQuiz.exe.config
+C:\Users\SRMidia\source\repos\JogoQuiz\JogoQuiz\bin\Debug\JogoQuiz.exe
+C:\Users\SRMidia\source\repos\JogoQuiz\JogoQuiz\bin\Debug\JogoQuiz.pdb
+C:\Users\SRMidia\source\repos\JogoQuiz\JogoQuiz\obj\Debug\JogoQuiz.csproj.AssemblyReference.cache
+C:\Users\SRMidia\source\repos\JogoQuiz\JogoQuiz\obj\Debug\JogoQuiz.csproj.CoreCompileInputs.cache
+C:\Users\SRMidia\source\repos\JogoQuiz\JogoQuiz\obj\Debug\JogoQuiz.exe
+C:\Users\SRMidia\source\repos\JogoQuiz\JogoQuiz\obj\Debug\JogoQuiz.pdb
